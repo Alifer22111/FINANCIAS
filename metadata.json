@@ -1,0 +1,6 @@
+{
+  "name": "FinVance - Gestor Financeiro Inteligente & Investidor 10",
+  "description": "Controle completo de gastos com categorias, orçamentos personalizados, alertas de limites, modo escuro elegante, IA para análise financeira e oportunidades de investimentos, sincronização automática Investidor 10, suporte multi-moeda e integração Open Finance com bancos brasileiros.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
